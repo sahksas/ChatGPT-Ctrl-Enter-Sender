@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "__MSG_appName__",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "__MSG_appDesc__",
   "default_locale": "en",
   "author": "Kamada Masachika",
@@ -22,7 +22,9 @@
         "https://chat.mistral.ai/*",
         "https://www.chatpdf.com/*",
         "https://www.perplexity.ai/*",
+        "https://www.bing.com/business/chat*",
         "https://you.com/*",
+        "https://coral.cohere.com/*",
         "https://dashboard.cohere.com/playground/chat"
       ],
       "js": ["script.js"]
@@ -51,7 +53,9 @@
     "https://www.perplexity.ai/*",
     "https://claude.ai/*",
     "https://www.bing.com/chat*",
+    "https://www.bing.com/business/chat*",
     "https://you.com/*",
+    "https://coral.cohere.com/*",
     "https://dashboard.cohere.com/playground/chat"
   ],
   "action": {
